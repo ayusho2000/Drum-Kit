@@ -80,4 +80,4 @@ The application displays a drum kit interface where users can interact with diff
 
 ---
 
-⭐ If you like this project, consider giving it a **star on GitHub**!
+
